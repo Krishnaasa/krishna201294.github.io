@@ -1,2 +1,1 @@
-# krishnaa.github.io
-Personal portfolio
+# MyPortfolio
